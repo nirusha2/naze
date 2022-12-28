@@ -1,8 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Create By Nirusha.
+   * Contact Me on wa.me/94783541331
 */
 
 const fs = require('fs')
@@ -19,12 +17,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['+94783541331']
+global.ownernomer = "+94783541331"
+global.premium = ['+94783541331']
 global.packname = 'Sticker By'
-global.author = 'Naze'
-global.sessionName = 'nazedev'
+global.author = 'Nirusha'
+global.sessionName = '@nirusha'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
@@ -44,7 +42,7 @@ global.limitawal = {
     free: 25
 }
 global.thumb = fs.readFileSync('./lib/naze.png')
-global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
+global.vaze = { url: 'https://telegra.ph/file/8f6e1ee5338b2f979ea12.mp4' }
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
